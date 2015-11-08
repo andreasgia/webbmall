@@ -1,4 +1,4 @@
-Anax-base
+Swe-base
 ==================
 
 A boilerplate for smaller websites or webbapplications using PHP.
@@ -15,4 +15,4 @@ This software is free software and carries a MIT license.
  .
 ..:
 
-Copyright (c) 2015 Andreas Giannoudis
+Copyright (c) 2015 Andreas Giannoudis.
